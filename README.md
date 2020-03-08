@@ -2,7 +2,7 @@
 Batch Convert Word Doc/Docx Files to  Files
 
 ## Download
-Download the latest release [here](releases/latest).
+Download the latest release [here](https://github.com/huwan/word2pdf/releases).
 
 ## Bat To Exe Converter
 Bat To Exe Converter can convert BAT (.bat) script files to the EXE (.exe) format.
@@ -51,7 +51,7 @@ FOR %%f in (*.doc *.docx) DO (
 ```
 
 ## OfficeToPDF
-A command line tool to convert Microsoft Office documents to PDFs [[Github](https://github.com/cognidox/OfficeToPDF)]
+A command line tool to convert Microsoft Office documents to PDFs [[Github](https://github.com/cognidox/OfficeToPDF)].
 
 ## NirCmd
-NirCmd is a small command-line utility that allows you to do some useful tasks without displaying any user interface. [[Website](http://www.nirsoft.net/utils/nircmd.html)]
+NirCmd is a small command-line utility that allows you to do some useful tasks without displaying any user interface [[Website](http://www.nirsoft.net/utils/nircmd.html)].
