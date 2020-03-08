@@ -1,5 +1,5 @@
 # word2pdf
-Batch Convert Word Doc/Docx Files to  Files
+Batch Convert Word Doc/Docx Files to PDF Files
 
 ## Download
 Download the latest release [here](https://github.com/huwan/word2pdf/releases).
